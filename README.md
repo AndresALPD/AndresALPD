@@ -11,24 +11,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://github.com/AndresALPD" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/andres_alpizarr/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009119623055" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend Technologies -->
@@ -85,6 +67,26 @@
   </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/AndresALPD" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/andres_alpizarr/" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009119623055" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/facebook.png" alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
