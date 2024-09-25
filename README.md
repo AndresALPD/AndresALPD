@@ -7,7 +7,9 @@
 
 <p align="center">📚 In my free time, I enjoy learning new tools and programming languages. There's always something exciting to discover in the tech world!</p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
