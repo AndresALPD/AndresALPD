@@ -92,7 +92,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">📱 Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
     <img align="center" src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn" height="40" width="40" />
