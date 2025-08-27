@@ -78,11 +78,8 @@ Here you can explore all my projects and work:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=AndresALPD&show_icons=true&theme=radical" alt="GitHub stats" height="180"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresALPD&theme=radical" alt="GitHub streak" height="180"/> 
-</p> 
-
-<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresALPD&layout=compact&theme=radical" alt="Top langs"/> 
-</p>
+</p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
