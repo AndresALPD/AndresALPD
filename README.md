@@ -25,6 +25,7 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![GitHub](https://img.shields.io/badge/GitHub-181A2F?style=for-the-badge&logo=github&logoColor=FDA481)](https://github.com/AndresALPD)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andres_alpd)
 [![Email](https://img.shields.io/badge/Email-B4182D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresalpizar03@gmail.com)
 
 ---
