@@ -24,8 +24,8 @@
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/GitHub-181A2F?style=for-the-badge&logo=github&logoColor=FDA481)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-B4182D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181A2F?style=for-the-badge&logo=github&logoColor=FDA481)](https://github.com/AndresALPD)
+[![Email](https://img.shields.io/badge/Email-B4182D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresalpizar03@gmail.com)
 
 ---
 
