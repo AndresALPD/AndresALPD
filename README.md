@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./images/Banner.PNG" alt="Banner">
+  <img src="./images/banner.png" alt="Banner">
 </p>
-
-
 
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=d71d36&center=true&vCenter=true&width=500&lines=Engineering+Student;Future+Engineer;Team+Leader;Tech+Enthusiast" alt="Typing SVG" /> 
