@@ -45,7 +45,10 @@ Here you can explore all my projects and work:
 
 ### 🌐 Frontend
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,bootstrap" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
 </div>
 
 ### ⚙️ Backend
