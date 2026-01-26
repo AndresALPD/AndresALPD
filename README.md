@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-alpd)
 [![GitHub](https://img.shields.io/badge/GitHub-181A2F?style=for-the-badge&logo=github&logoColor=FDA481)](https://github.com/AndresALPD)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andres_alpd)
 [![Email](https://img.shields.io/badge/Email-B4182D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresalpizar03@gmail.com)
