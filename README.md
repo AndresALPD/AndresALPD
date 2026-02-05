@@ -83,16 +83,13 @@ Here you can explore all my projects and work:
 ### 📊 GitHub Stats
 <table align="center"> 
 <tr border="none">
-<td width="50%" align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresALPD&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-
-</td>
 
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresALPD&theme=radical" alt="GitHub streak" height="180"/>
   
-  </td>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AndresALPD&theme=radical" alt="GitHub streak" height="180"/>
+  
+</td>
+  
 </tr>
 </table>
 
@@ -100,7 +97,8 @@ Here you can explore all my projects and work:
 <tr>
 <td width="50%" align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresALPD&layout=compact&theme=radical" alt="Top langs"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndresALPD&layout=compact&theme=radical" alt="Top langs"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndresALPD&layout=compact&theme=radical" alt="Top langs"/> 
   
 </td>
 </tr>
