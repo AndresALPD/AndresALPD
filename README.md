@@ -13,7 +13,7 @@
 </p>
 <p> 
     <strong>  
-        🎓 Systems Engineering graduate from Universidad Fidélitas, ready to start my professional journey and contribute to real-world projects.  
+        🎓 B.Sc. in Systems Engineering, ready to contribute to impactful and real-world projects. 
     </strong>  
 </p>
 <p> 
