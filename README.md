@@ -13,7 +13,7 @@
 </p>
 <p> 
     <strong>  
-        🎓 I am a Systems Engineering student at Universidad Fidélitas in Costa Rica, constantly learning and improving my skills.  
+        🎓 Systems Engineering graduate from Universidad Fidélitas, ready to start my professional journey and contribute to real-world projects.  
     </strong>  
 </p>
 <p> 
