@@ -47,36 +47,30 @@ Here you can explore all my projects and work:
 <div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,bootstrap" />
 </div>
 
 ### ⚙️ Backend
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,spring,nodejs" />
-</div>
-
-### 🔍 API Testing & Development
-<div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,insomnia" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,spring,nodejs,fastapi" />
 </div>
 
 ### 🗄️ Databases
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb,postgres,oracle" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,postgres,mongodb" />
 </div>
 
-### 🛠️ IDEs & Tools
+### 🛠️ Tools
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,rider,idea,git,github,docker,linux," />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,firebase,postman,oracle" />
 </div>
 
 ---
 
 ### 📚 Currently Learning
-- 🌐 **Oracle Cloud Infrastructure (OCI)**  
-- 🐧 **Linux administration & scripting**  
-- 🐳 **Docker & containerization**  
+- 🐳 **Docker & containerization**
+- 🐧 **Linux administration & scripting**
+- 🔄 **CI/CD & DevOps practices**
 
 ---
 
