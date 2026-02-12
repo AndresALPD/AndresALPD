@@ -64,13 +64,9 @@ Here you can explore all my projects and work:
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AndresALPD&theme=radical" alt="GitHub streak" height="180"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AndresALPD&theme=radical" alt="GitHub streak" height="180"/>
+</p>  
 
 <table align="center">
   <tr>
@@ -80,6 +76,10 @@ Here you can explore all my projects and work:
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndresALPD&theme=radical" width="88%" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
